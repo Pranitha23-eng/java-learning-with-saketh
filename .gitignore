@@ -1,0 +1,16 @@
+
+AP/.classpath
+.project
+*.prefs
+AP/src/module-info.java
+books/.classpath
+*.class
+firstjavaproject/.classpath
+duck/src/module-info.java
+planet/.classpath
+planet/src/module-info.java
+pranitha/.classpath
+sindhu/.classpath
+intro to obj oriented programming/.classpath
+hello world/src/module-info.java
+hello world/.classpath
