@@ -12,8 +12,9 @@ person(String n,String P,Boolean i)
 	this.issitting=i;
 	}
 void sitdown() { 
-	this.issitting = true;
+	if(this.issitting== true) {;
 	System.out.println("hmm");
+	}
 }
 	
 
