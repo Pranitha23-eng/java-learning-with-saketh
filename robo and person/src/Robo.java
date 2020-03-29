@@ -14,7 +14,8 @@ public class Robo {
 	}
 	
 	void introduce() {
-		System.out.println("My name is "+this.name);
+		System.out.println("My name is "+this.name  );
+		System.out.println("My color is " +this.color);
 	}
 
 }
