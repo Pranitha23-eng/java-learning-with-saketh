@@ -8,21 +8,18 @@ public class Boat {
 		return length;
 	}
 public void move() {
-	System.out.println("jhdkjfhsdkjff");
+	System.out.println("madhavi");
 }
 }
 
 class RowBoat extends Boat{
 	public void rowtheboat() {
-		System.out.println("dhfgdhbdnssj");
+		System.out.println("sakethuuuu");
 		}
 }
  class  SailBoat extends Boat{
-	public void move() {}
-	
-
-
-public void move(int pspeed) {
+	 
+ public void move(int pspeed) {
 	System.out.println(" I'm going at speeed"+pspeed);
 }
 }
