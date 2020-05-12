@@ -14,3 +14,5 @@ public class Account// class def public means this class can be used in other ap
  
 
 }
+
+//data inside class will always be private and methods inside a class will be public.
