@@ -13,7 +13,7 @@ public class PoolpUZZLE {
 		 if ( x> 1 ) {
 
 			 System.out.print(" ");
-			 System.out.print("oyster");
+			 System.out.print(" oyster");
 		 x = x + 2;
 		 }
 		 if ( x == 1 ) {
