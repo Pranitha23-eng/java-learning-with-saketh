@@ -4,11 +4,15 @@ public class Books {
 		 String title;
 		 String author;
 		  public Books(String atitle,String aauthor) {
-			  title=atitle;
+			 title=atitle;
 			  author=aauthor;
 			  
-		  }
+		 
+		
+		}
 }
+
+
 
 
 
