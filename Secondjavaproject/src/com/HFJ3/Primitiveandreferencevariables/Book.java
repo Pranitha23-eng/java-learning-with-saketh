@@ -1,9 +1,9 @@
 package com.HFJ3.Primitiveandreferencevariables;
 
-public class Books {
+public class Book {
 		 String title;
 		 String author;
-		  public Books(String atitle,String aauthor) {
+		  public Book(String atitle,String aauthor) {
 			 title=atitle;
 			  author=aauthor;
 			  
