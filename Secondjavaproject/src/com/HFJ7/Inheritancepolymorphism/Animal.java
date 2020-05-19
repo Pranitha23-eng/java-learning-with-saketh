@@ -3,8 +3,10 @@ package com.HFJ7.Inheritancepolymorphism;
 public class Animal {
 	String name;
 	int age;
+	int i;
 	
-	final public void eat() {
+	public void eat(int i ) {
+		System.out.println(" hmmm");
 		System.out.println("become fatty!!!");
 		}
 	

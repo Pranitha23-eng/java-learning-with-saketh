@@ -6,7 +6,7 @@ public class AniamlTestDrive  {
 		// TODO Auto-generated method stub
 		
 		Animal  d = new Dog();//declare a ref var of super type and assign subclass object
-			d.eat();
+			d.eat(5);
 			Animal c = new Cat();
 			c.meow();
 			
