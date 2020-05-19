@@ -4,7 +4,7 @@ public class Animal {
 	String name;
 	int age;
 	
-	public void eat() {
+	final public void eat() {
 		System.out.println("become fatty!!!");
 		}
 	
