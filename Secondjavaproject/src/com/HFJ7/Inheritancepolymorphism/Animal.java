@@ -9,7 +9,9 @@ public class Animal {
 		}
 	
 	public void sleep() {
-		System.out.println("leepppyyy");
+		System.out.println("leepppyyy");}
+		public void meow()
+		{
 	}
 
 }

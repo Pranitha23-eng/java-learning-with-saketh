@@ -5,8 +5,11 @@ public class AniamlTestDrive  {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-			Dog d = new Dog();
+		Animal  d = new Dog();
 			d.eat();
+			Animal c = new Cat();
+			c.meow();
+			
 
 			}
 
