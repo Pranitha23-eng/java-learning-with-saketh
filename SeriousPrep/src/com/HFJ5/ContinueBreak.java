@@ -7,8 +7,8 @@ public class ContinueBreak {
 		
 		for(int i=1;i<=5;i++) {
 			if(i%2==0) {
-				continue;
-				//break;
+				//continue;
+				break;
 			}
 			 System.out.println(i);
 		}

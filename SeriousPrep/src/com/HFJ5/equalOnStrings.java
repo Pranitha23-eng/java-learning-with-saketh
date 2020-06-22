@@ -6,7 +6,7 @@ public class equalOnStrings {
 		// TODO Auto-generated method stub
 		String temp = "blah";
 		String temp1 = "blah";
-		if(temp.equals(temp1)) {
+		if(temp==temp1) {
 			System.out.println("booo");}
 		else {
 			System.out.println("boo booo");
